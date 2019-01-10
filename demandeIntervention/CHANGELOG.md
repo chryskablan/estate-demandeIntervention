@@ -4,3 +4,4 @@
         -> Add laravel auth 
         -> Install of NPM
         -> Install of Angular JS 1.6
+        -> Installation of the database structure
